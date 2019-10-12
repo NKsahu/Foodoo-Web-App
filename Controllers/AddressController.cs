@@ -11,7 +11,6 @@ namespace FOODDO.Controllers
 
 
 
-
         public ActionResult Filter(string FilterBy="",string value="")
         {
             List<Address> ListAdd = new List<Address>();
